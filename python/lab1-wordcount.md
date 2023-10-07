@@ -1,4 +1,4 @@
-### Lab 1: Multi-File Word Count
+### Lab 1: Multi-File Word Count_1
 
 In this lab, you will become acquainted with your Spark installation, and run your first Spark job -- a multi-file word count.
 
